@@ -1,5 +1,5 @@
 === COMANDĂ NEXCAPITAL — ANALIZĂ BURSĂ ===
-Moment: 07/08/2026, 18:51:32
+Moment: 07/08/2026, 20:41:00
 Comandă: analizează TOATE acțiunile pe valori REALE din acest moment; înlocuiește valorile în grafic; explică DE CE s-a mișcat piața (studiu încrucișat: piață + mediu economic/politic/public); actualizează procentul (Azi vs Soclu) și cei 12 indicatori; memorează tot; iar când sunt pe Chrome, actualizează aplicația/telefonul.
 
 --- ACȚIUNI (18): ticker · soclu · azi · % · min · vârf · poziție în bandă ---
