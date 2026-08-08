@@ -1,5 +1,5 @@
 === NEXTAI — STARE COMPLETĂ APLICAȚIE ===
-Moment: 08/08/2026, 16:47:35
+Moment: 08/08/2026, 16:51:58
 
 (Claude/ElYa: JSON complet mai jos — zi, activități, sănătate, ProX, bursă, grila, învăț, dicționare, plan lună, notificări. Îl citești și îl înțelegi pe tot.)
 
