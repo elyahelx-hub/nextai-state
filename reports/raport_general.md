@@ -1,4 +1,4 @@
-⬡ NEXTAI — raport · Luni, 10 aug
+⬡ NEXTAI — raport · Marți, 11 aug
 
 === ZI ===
 ⬜ ELyah TikTok
@@ -11,7 +11,8 @@ De plătit: —
 De încasat: —
 
 === SĂNĂTATE ===
-Mâncat 0 · Ars 0 · Net 0 kcal
+Mâncat 417 · Ars 0 · Net 417 kcal
+Mic dejun (12): 4 oua; iaurt
 
 === PROX ===
 ✓ Diversificare clienți (agenții)
