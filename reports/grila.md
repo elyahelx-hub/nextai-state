@@ -1,41 +1,71 @@
-=== Grila proiectelor — 18/08/2026, 12:19:04 ===
+=== Grila proiectelor — 8/21/2026, 3:43:50 PM ===
 
 ← Acasă
 📊 Grila proiectelor
 📤 Trimite pagina la agent
-Fiecare proiect, notat 1–10 pe două axe: REALIST (merită?) și REALIZABIL (îl putem face?). La fiecare punct: nota + ✎ pentru pro · contra · cum crește nota. Culori: verde ≥8 · galben 5–7 · roșu ≤4.
-
-—
-🗑
-REALIST — MERITĂ?
-Realist (are sens, cerere reală)
-✎
-REALIZABIL — ÎL PUTEM FACE?
-Tehnic / soft
-✎
-Implementare
-✎
-Construcție
-✎
-Logistică
-✎
-Marketing
-✎
-Cerere & ofertă
-✎
-Vânzare
-✎
-Finanțare / capital
-✎
-Timp
-✎
-Oameni / echipă
-✎
-Legal / risc
-✎
-Mentenanță
-✎
+IMAGINEA ZILEI
+Încă nicio notă salvată. Banda asta arată ce s-a mișcat față de ultima măsurătoare — deci are nevoie de cel puțin două zile de note. Nu poți raporta ce nu înregistrezi.
+Fiecare proiect, notat 1–10 pe două axe: REALIST (merită?) și REALIZABIL (îl putem face?). Apasă ✎ la orice criteriu și se deschide firul lui: notele din zilele trecute cu motivul lor, discuția, și cel care a dat nota îți răspunde — cu un lucru concret care o ridică cu un punct. O notă sub 8 fără drumul care o ridică nu se salvează: nota fără motiv e o pedeapsă, nu o măsurătoare. Culori: verde ≥8 · galben 5–7 · roșu ≤4.
+Niciun proiect încă — apasă „➕ Adaugă proiect".
 ➕ Adaugă proiect 📤 Trimite grila la Claude
+🔍 INSPECȚIE
+Control = ce știe să verifice. Surpriză = se uită și unde nu se uită nimeni de obicei, și cheamă subagenți. Ce găsește intră în memoria rădăcină.
+PROIECTE
+ProX Hostel
+control
+⏳
+CautZilier
+control
+⏳
+WorkInRomania
+control
+⏳
+NEXTAI
+control
+⏳
+AGENȚI
+marketing
+caută unde se poate promova ProX și ce mesaj prinde · luni 06:30
+control
+surpriză
+audit
+măsoară saitul: viteză, SEO, date, afacere · marți 06:30
+control
+surpriză
+clienti
+contactul cu clienții și ce iese din el · joi 06:30
+control
+surpriză
+crestere
+unde se poate crește ocuparea și venitul · vineri 06:30
+control
+surpriză
+facebook
+ce s-a întâmplat pe paginile de Facebook · vineri 20:00
+control
+surpriză
+bursa-scoala
+analiza paginilor de bursă și tiparele din ele · la apăsarea butonului + sâmbătă 07:15
+control
+surpriză
+bursa-circuit
+harta mamă: circuitul și punctele de contraimpuls · la apăsarea butonului
+control
+surpriză
+agent-audit
+notele din grila proiectelor, din măsurători · în fiecare seară, 21:30
+control
+surpriză
+🩺 AU RULAT AGENȚII?
+Ce a pornit, cât a ținut, ce a picat. Fără tabloul ăsta, „n-a scris nimic" putea să însemne n-a rulat sau a rulat și n-a găsit nimic — două lucruri diferite.
+Încă nicio rulare înregistrată. Tabloul se umple de la prima pornire a unui job — de acum se scrie fiecare.
+💬 CE A GĂSIT INSPECTORUL
+Aici ajunge ce a găsit și ce e de făcut. Poți întreba mai departe — știe ce tocmai a măsurat.
+🔍 inspecție SURPRIZĂ la NEXTAI… măsoară
+🔍 inspecție SURPRIZĂ la WorkInRomania… măsoară
+🔍 inspecție SURPRIZĂ la CautZilier… măsoară
+🔍 inspecție SURPRIZĂ la ProX Hostel… măsoară
+ Trimite
 
 [STARE COMPLETĂ APLICAȚIE — JSON]
-{"rows":["","","","d","d",""],"custom":{"focus":[],"backup":[],"medic":[],"invat":[],"luna":[]},"fields":{"af_facut":"","af_platit":"","af_incasat":"","drink":"","citit":"","trezire":"","culcare":"","greutate":"","barbati":"0","femei":"0","oferta":"0","stare_dim":"Normal ","stare_pranz":"Normal ","stare_seara":"Buna","mealB_time":"","mealB":"","mealM_time":"","mealM":"","mealC_time":"","mealC":"","g_piept_ex":"","g_piept_se":"","g_piept_re":"","g_spate_ex":"","g_spate_se":"","g_spate_re":"","g_brate_ex":"","g_brate_se":"","g_brate_re":"","g_umeri_ex":"","g_umeri_se":"","g_umeri_re":"","g_trapez_ex":"","g_trapez_se":"","g_trapez_re":"","g_picioare_ex":"","g_picioare_se":"","g_picioare_re":"","g_abdomen_ex":"","g_abdomen_se":"","g_abdomen_re":"","g_box_min":"","g_mers_km":"","g_mers_kcal":"","sauna":"","medit_dim":"","medit_sea":"","dayDate":"2026-08-18","healthLog":"2026-08-17: mâncat 0 · ars 0 · net 0 kcal\n2026-08-16: mâncat 0 · ars 0 · net 0 kcal\n2026-08-15: mâncat 970 · ars 0 · net 970 kcal · 98kg · somn 12–\nSâmbătă, 15 aug: mâncat 1725 · ars 200 · net 1525 kcal · 98kg\n2026-08-14: mâncat 0 · ars 0 · net 0 kcal\nVineri, 14 aug: mâncat 0 · ars 120 · net -120 kcal · 97kg\n","dossierSan":"◆ ⬡ Sănătate · Sâmbătă, 15 aug\n\nMIC DEJUN: —\nMASA PRINCIPALĂ (13): 3 măr\nNuci\nCarne \nCarne\nPâine\nSalată \nCarne\nMăr\nMar\nCINĂ: —\nBĂUTURĂ: Cafea\nTonic\nANTRENAMENT: Mers 4km (200kcal)\nBILANȚ: mâncat 1725 · ars 200 · net 1525 kcal\nMEDITAȚIE: dimineața 60\nGREUTATE: 98 kg\nSOMN: trezire 12 · culcare 00:30\n\n◆ ⬡ Sănătate · Vineri, 14 aug\n\nMIC DEJUN (10): —\nMASA PRINCIPALĂ: —\nCINĂ: —\nBĂUTURĂ: —\nANTRENAMENT: Piept 1×4×12 · Spate 1×4×12 · Brațe 2×3×12 · Umeri 2×3×12\nBILANȚ: mâncat 0 · ars 120 · net -120 kcal\nMEDITAȚIE: dimineața 60\nGREUTATE: 97 kg\nSOMN: trezire 10 · culcare 23:30\n\n","dossierZi":"◆ ⬡ Panoul zilei — FĂCUTE · Vineri, 14 aug\n\n(nimic bifat ca făcut)\n\nSTAREA ZILEI:\n☀️ Normal \n🌤️ Normal \n🌙 Bună \n\n","inbox":"───── Marți, 18 aug ─────\n⬡ Grila proiectelor · Marți, 18 aug\n\n▸ Claude+N8N+Skill — realist: – · realizabil mediu: –\n\n\n───── Marți, 18 aug ─────\n⬡ Grila proiectelor · Marți, 18 aug\n\n▸ Claude+N8N+Skill — realist: – · realizabil mediu: –\n\n\n───── Marți, 18 aug ─────\n⬡ Grila proiectelor · Marți, 18 aug\n\n▸ Claude+N8N+Skill — realist: – · realizabil mediu: –\n\n\n───── Marți, 18 aug ─────\n⬡ Grila proiectelor · Marți, 18 aug\n\n▸ Claude+N8N+Skill — realist: – · realizabil mediu: –\n\n\n───── Marți, 18 aug ─────\n⬡ Grila proiectelor · Marți, 18 aug\n\n▸ Claude+N8N+Skill — realist: – · realizabil mediu: –\n\n\n───── Marți, 18 aug ─────\n⬡ Grila proiectelor · Marți, 18 aug\n\n▸ Claude+N8N+Skill — realist: – · realizabil mediu: –\n\n\n───── Marți, 18 aug ─────\n⬡ Grila proiectelor · Marți, 18 aug\n\n▸ Claude+N8N+Skill — realist: – · realizabil mediu: –\n\n\n───── Marți, 18 aug ─────\n⬡ Grila proiectelor · Marți, 18 aug\n\n▸ Claude+N8N+Skill — realist: – · realizabil mediu: –\n\n\n───── Marți, 18 aug ─────\n⬡ Grila proiectelor · Marți, 18 aug\n\n▸ Claude+N8N+Skill — realist: – · realizabil mediu: –\n\n\n───── Marți, 18 aug ─────\n⬡ Grila proiectelor · Marți, 18 aug\n\n▸ Claude+N8N+Skill — realist: – · realizabil mediu: –\n\n\n───── Marți, 18 aug ─────\n⬡ Grila proiectelor · Marți, 18 aug\n\n▸ Claude+N8N+Skill — realist: – · realizabil mediu: –\n\n\n───── Sâmbătă, 15 aug ─────\n⬡ Sănătate · Sâmbătă, 15 aug\n\nMIC DEJUN: —\nMASA PRINCIPALĂ (13): 3 măr\nNuci\nCarne \nCarne\nPâine\nSalată \nCarne\nMăr\nMar\nCINĂ: —\nBĂUTURĂ: Cafea\nTonic\nANTRENAMENT: Mers 4km (200kcal)\nBILANȚ: mâncat 1725 · ars 200 · net 1525 kcal\nMEDITAȚIE: dimineața 60\nGREUTATE: 98 kg\nSOMN: trezire 12 · culcare 00:30\n\n───── Vineri, 14 aug ─────\n⬡ Panoul zilei — FĂCUTE · Vineri, 14 aug\n\n(nimic bifat ca făcut)\n\nSTAREA ZILEI:\n☀️ Normal \n🌤️ Normal \n🌙 Bună \n\n───── Vineri, 14 aug ─────\n⬡ Sănătate · Vineri, 14 aug\n\nMIC DEJUN (10): —\nMASA PRINCIPALĂ: —\nCINĂ: —\nBĂUTURĂ: —\nANTRENAMENT: Piept 1×4×12 · Spate 1×4×12 · Brațe 2×3×12 · Umeri 2×3×12\nBILANȚ: mâncat 0 · ars 120 · net -120 kcal\nMEDITAȚIE: dimineața 60\nGREUTATE: 97 kg\nSOMN: trezire 10 · culcare 23:30\n\n","reperVer":"4","bursaComanda":"=== COMANDĂ NEXCAPITAL — ANALIZĂ BURSĂ ===\nMoment: 18/08/2026, 12:17:15\nComandă: analizează TOATE acțiunile pe valori REALE din acest moment; înlocuiește valorile în grafic; explică DE CE s-a mișcat piața (studiu încrucișat: piață + mediu economic/politic/public); actualizează procentul (Azi vs Soclu) și cei 12 indicatori; memorează tot; iar când sunt pe Chrome, actualizează aplicația/telefonul.\n\n--- ACȚIUNI (18): ticker · soclu · azi · % · min · vârf · poziție în bandă ---\nPLTR · soclu 151.44 · azi 172.55 · +13.9% · min 24.04 · vârf 190 · bandă 89%\nMSFT · soclu 487.65 · azi 480.35 · -1.5% · min 55.8 · vârf 500 · bandă 96%\nNVDA · soclu 206.64 · azi 225.01 · +8.9% · min 94.18 · vârf 235.47 · bandă 93%\nAVGO · soclu 411.79 · azi 392.43 · -4.7% · min 133.74 · vârf 480.77 · bandă 75%\nGOOGL · soclu 371 · azi 344 · -7.3% · min 82.7 · vârf 402.38 · bandă 82%\nAMZN · soclu 277.14 · azi 261.31 · -5.7% · min 81.82 · vârf 284.02 · bandă 89%\nCRWD · soclu 210.01 · azi 213.9 · +1.9% · min 23.28 · vârf 400 · bandă 51%\nPANW · soclu 358.91 · azi 375.76 · +4.7% · min 141.67 · vârf 366.34 · bandă 104%\nZS · soclu 154.46 · azi 184.44 · +19.4% · min 67.19 · vârf 370 · bandă 39%\nNET · soclu 286.57 · azi 307.01 · +7.1% · min 34.83 · vârf 300 · bandă 103%\nMETA · soclu 582 · azi 568.97 · -2.2% · min 88.22 · vârf 630 · bandă 89%\nTSM · soclu 406.11 · azi 430.97 · +6.1% · min 23.57 · vârf 420 · bandă 103%\nORCL · soclu 141.85 · azi 146.65 · +3.4% · min 33.37 · vârf 200 · bandă 68%\nNOW · soclu 114.19 · azi 117.7 · +3.1% · min 15.13 · vârf 125 · bandă 93%\nCRM · soclu 185.14 · azi 190.97 · +3.1% · min 69.34 · vârf 320 · bandă 49%\nPSTG · soclu 62.85 · azi — · — · min 8.76 · vârf 105 · bandă 56%\nAAPL · soclu 303.42 · azi 305.59 · +0.7% · min 105.5 · vârf 340.08 · bandă 85%\nAXP · soclu 344.72 · azi 336.21 · -2.5% · min 63.4 · vârf 360 · bandă 92%\n\n--- INDICATORI MACRO (12): nr · nume · ghidaj · acum ---\n1. Curba randamentelor 10Y–2Y · ghidaj 0 · acum 0.45\n2. Spread credit High-Yield · ghidaj ~3,8% · acum 3.1\n3. LEI (Conference Board) · ghidaj 0 (YoY) · acum -1.2\n4. ISM Manufacturing PMI · ghidaj 50 · acum 48.5\n5. Cereri inițiale șomaj (k) · ghidaj ~300 · acum 232\n6. Regula Sahm · ghidaj 0,5 · acum 0.3\n7. VIX · ghidaj ~20 · acum 15.4\n8. Inflația Core PCE · ghidaj 2,0% · acum 2.9\n9. Rata Fed · ghidaj ~2,5% · acum 3.6\n10. Indicatorul Buffett · ghidaj ~100% · acum 205\n11. Amplitudine (>MM200) · ghidaj 50% · acum 71\n12. Încredere consumatori · ghidaj ~100 · acum 98\n\n(Lipește acest raport agentului NExCAPITAL în chat — e semnalul de acțiune.)","bursaComandaMoment":"18/08/2026, 12:17:15","px_ocup":"","px_pret":"","px_cost":"","px_inv_total":"","px_inv_facut":"","px_inv_status":"","s_PLTR_e":"151.44","s_PLTR_c":"172.55","s_PLTR_d":"4 aug 2026","s_PLTR_p":"190","s_PLTR_l":"24.04","s_PLTR_y":"172.55","s_MSFT_e":"487.65","s_MSFT_c":"480.35","s_MSFT_d":"4 aug 2026","s_MSFT_p":"500","s_MSFT_l":"55.8","s_MSFT_y":"480.35","s_NVDA_e":"206.64","s_NVDA_c":"225.01","s_NVDA_d":"4 aug 2026","s_NVDA_p":"235.47","s_NVDA_l":"94.18","s_NVDA_y":"225.01","s_AVGO_e":"411.79","s_AVGO_c":"392.43","s_AVGO_d":"4 aug 2026","s_AVGO_p":"480.77","s_AVGO_l":"133.74","s_AVGO_y":"392.43","s_GOOGL_e":"371","s_GOOGL_c":"344","s_GOOGL_d":"4 aug 2026","s_GOOGL_p":"402.38","s_GOOGL_l":"82.7","s_GOOGL_y":"344","s_AMZN_e":"277.14","s_AMZN_c":"261.31","s_AMZN_d":"4 aug 2026","s_AMZN_p":"284.02","s_AMZN_l":"81.82","s_AMZN_y":"261.31","s_CRWD_e":"210.01","s_CRWD_c":"213.9","s_CRWD_d":"4 aug 2026","s_CRWD_p":"400","s_CRWD_l":"23.28","s_CRWD_y":"213.9","s_PANW_e":"358.91","s_PANW_c":"375.76","s_PANW_d":"4 aug 2026","s_PANW_p":"366.34","s_PANW_l":"141.67","s_PANW_y":"375.76","s_ZS_e":"154.46","s_ZS_c":"184.44","s_ZS_d":"4 aug 2026","s_ZS_p":"370","s_ZS_l":"67.19","s_ZS_y":"184.44","s_NET_e":"286.57","s_NET_c":"307.01","s_NET_d":"4 aug 2026","s_NET_p":"300","s_NET_l":"34.83","s_NET_y":"307.01","s_META_e":"582","s_META_c":"568.97","s_META_d":"4 aug 2026","s_META_p":"630","s_META_l":"88.22","s_META_y":"568.97","s_TSM_e":"406.11","s_TSM_c":"430.97","s_TSM_d":"4 aug 2026","s_TSM_p":"420","s_TSM_l":"23.57","s_TSM_y":"430.97","s_ORCL_e":"141.85","s_ORCL_c":"146.65","s_ORCL_d":"4 aug 2026","s_ORCL_p":"200","s_ORCL_l":"33.37","s_ORCL_y":"146.65","s_NOW_e":"114.19","s_NOW_c":"117.7","s_NOW_d":"4 aug 2026","s_NOW_p":"125","s_NOW_l":"15.13","s_NOW_y":"117.7","s_CRM_e":"185.14","s_CRM_c":"190.97","s_CRM_d":"4 aug 2026","s_CRM_p":"320","s_CRM_l":"69.34","s_CRM_y":"190.97","s_PSTG_e":"62.85","s_PSTG_c":"","s_PSTG_d":"4 aug 2026","s_PSTG_p":"105","s_PSTG_l":"8.76","s_PSTG_y":"","s_AAPL_e":"303.42","s_AAPL_c":"305.59","s_AAPL_d":"4 aug 2026","s_AAPL_p":"340.08","s_AAPL_l":"105.5","s_AAPL_y":"305.59","s_AXP_e":"344.72","s_AXP_c":"336.21","s_AXP_d":"4 aug 2026","s_AXP_p":"360","s_AXP_l":"63.4","s_AXP_y":"336.21","pi0_c":"0.45","pi1_c":"3.1","pi2_c":"-1.2","pi3_c":"48.5","pi4_c":"232","pi5_c":"0.3","pi6_c":"15.4","pi7_c":"2.9","pi8_c":"3.6","pi9_c":"205","pi10_c":"71","pi11_c":"98","bursaNote":"Ce ai învățat astăzi din analiza tranzacțiilor ","lectie":"Cyber — Ziua 1: Guvernanță & Triada CIA\n\nGuvernanța = cine decide regulile de securitate și cine răspunde. La ProX, operatorul de date ești TU.\n\nTriada CIA (busola securității):\n• Confidențialitate — datele văzute doar de cine are drept (criptare, privilegiu minim).\n• Integritate — datele corecte, nemodificate pe ascuns (backup, control acces).\n• Disponibilitate — datele accesibile când ai nevoie (backup 3-2-1).\n\nPractică azi: audit ProX #1 — unde stau contractele, cine are acces, ce e criptat.\nRecap seara: spune-mi cu cuvintele tale ce înseamnă C, I, A."},"companies":[],"projects":[{"name":"Claude+N8N+Skill","realist":"","s":{},"note":{}}],"leads":[]}
+{"rows":["","","","d","d",""],"custom":{"focus":[{"t":"Bursa total","s":"d"},{"t":"📊 Grila proiectelor","s":"d"},{"t":"Google ads","s":"d"},{"t":"Facebook","s":"d"},{"t":"Sala","s":"d"},{"t":"Facturi trimese","s":"d"},{"t":"Bani pentru Marin ","s":""},{"t":"ASSESMENTURILE TERMINATE  SI DEPUSE","s":""},{"t":"publicitate animata video","s":""}],"backup":[],"medic":[],"invat":[],"luna":[]},"fields":{"af_facut":"","af_platit":"","af_incasat":"","drink":"","citit":"","trezire":"","culcare":"","greutate":"","barbati":"0","femei":"0","oferta":"0","stare_dim":"","stare_pranz":"","stare_seara":"","mealB_time":"","mealB":"","mealM_time":"","mealM":"","mealC_time":"","mealC":"","g_piept_ex":"","g_spate_ex":"","g_brate_ex":"","g_umeri_ex":"","g_trapez_ex":"","g_picioare_ex":"","g_abdomen_ex":"","g_box_min":"","g_mers_km":"","g_mers_kcal":"","citit_titlu":"","sauna":"","medit_dim":"","medit_sea":"","dayDate":"2026-08-21","healthLog":"","dossierSan":"","dossierZi":"","inbox":"───── Vineri, 21 aug ─────\n⬡ Grila proiectelor · Vineri, 21 aug\n\n(niciun proiect)\n\n","reperVer":"4","bursaComanda":"","bursaComandaMoment":"","px_ocup":"","px_pret":"","px_cost":"","px_inv_total":"","px_inv_facut":"","px_inv_status":"","s_PLTR_e":"151.44","s_PLTR_c":"173.691","s_PLTR_d":"4 aug 2026","s_PLTR_p":"190","s_PLTR_l":"24.04","s_PLTR_y":"","s_MSFT_e":"487.65","s_MSFT_c":"481.89","s_MSFT_d":"4 aug 2026","s_MSFT_p":"500","s_MSFT_l":"55.8","s_MSFT_y":"","s_NVDA_e":"206.64","s_NVDA_c":"216.7","s_NVDA_d":"4 aug 2026","s_NVDA_p":"235.47","s_NVDA_l":"94.18","s_NVDA_y":"","s_AVGO_e":"411.79","s_AVGO_c":"366.54","s_AVGO_d":"4 aug 2026","s_AVGO_p":"480.77","s_AVGO_l":"133.74","s_AVGO_y":"","s_GOOGL_e":"371","s_GOOGL_c":"341.95","s_GOOGL_d":"4 aug 2026","s_GOOGL_p":"402.38","s_GOOGL_l":"82.7","s_GOOGL_y":"","s_AMZN_e":"277.14","s_AMZN_c":"258.925","s_AMZN_d":"4 aug 2026","s_AMZN_p":"284.02","s_AMZN_l":"81.82","s_AMZN_y":"","s_CRWD_e":"210.01","s_CRWD_c":"189.42","s_CRWD_d":"4 aug 2026","s_CRWD_p":"400","s_CRWD_l":"23.28","s_CRWD_y":"","s_PANW_e":"358.91","s_PANW_c":"347.385","s_PANW_d":"4 aug 2026","s_PANW_p":"366.34","s_PANW_l":"141.67","s_PANW_y":"","s_ZS_e":"154.46","s_ZS_c":"175.28","s_ZS_d":"4 aug 2026","s_ZS_p":"370","s_ZS_l":"67.19","s_ZS_y":"","s_NET_e":"286.57","s_NET_c":"279.19","s_NET_d":"4 aug 2026","s_NET_p":"300","s_NET_l":"34.83","s_NET_y":"","s_META_e":"582","s_META_c":"550.075","s_META_d":"4 aug 2026","s_META_p":"630","s_META_l":"88.22","s_META_y":"","s_TSM_e":"406.11","s_TSM_c":"420.365","s_TSM_d":"4 aug 2026","s_TSM_p":"420","s_TSM_l":"23.57","s_TSM_y":"","s_ORCL_e":"141.85","s_ORCL_c":"147.38","s_ORCL_d":"4 aug 2026","s_ORCL_p":"200","s_ORCL_l":"33.37","s_ORCL_y":"","s_NOW_e":"114.19","s_NOW_c":"129.17","s_NOW_d":"4 aug 2026","s_NOW_p":"125","s_NOW_l":"15.13","s_NOW_y":"","s_CRM_e":"185.14","s_CRM_c":"206.98","s_CRM_d":"4 aug 2026","s_CRM_p":"320","s_CRM_l":"69.34","s_CRM_y":"","s_PSTG_e":"62.85","s_PSTG_c":"","s_PSTG_d":"4 aug 2026","s_PSTG_p":"105","s_PSTG_l":"8.76","s_PSTG_y":"","s_AAPL_e":"303.42","s_AAPL_c":"307.37","s_AAPL_d":"4 aug 2026","s_AAPL_p":"340.08","s_AAPL_l":"105.5","s_AAPL_y":"","s_AXP_e":"344.72","s_AXP_c":"335.575","s_AXP_d":"4 aug 2026","s_AXP_p":"360","s_AXP_l":"63.4","s_AXP_y":"","pi0_c":"0.45","pi1_c":"3.1","pi2_c":"-1.2","pi3_c":"48.5","pi4_c":"232","pi5_c":"0.3","pi6_c":"15.4","pi7_c":"2.9","pi8_c":"3.6","pi9_c":"205","pi10_c":"71","pi11_c":"98","bursaNote":"","lectie":"Cyber — Ziua 1: Guvernanță & Triada CIA\n\nGuvernanța = cine decide regulile de securitate și cine răspunde. La ProX, operatorul de date ești TU.\n\nTriada CIA (busola securității):\n• Confidențialitate — datele văzute doar de cine are drept (criptare, privilegiu minim).\n• Integritate — datele corecte, nemodificate pe ascuns (backup, control acces).\n• Disponibilitate — datele accesibile când ai nevoie (backup 3-2-1).\n\nPractică azi: audit ProX #1 — unde stau contractele, cine are acces, ce e criptat.\nRecap seara: spune-mi cu cuvintele tale ce înseamnă C, I, A."},"companies":[],"projects":[],"leads":[]}
