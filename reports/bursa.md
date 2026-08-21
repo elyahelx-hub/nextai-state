@@ -1,26 +1,26 @@
 === COMANDĂ NEXCAPITAL — ANALIZĂ BURSĂ ===
-Moment: 8/20/2026, 6:43:25 PM
+Moment: 21/08/2026, 11:24:48
 Comandă: analizează TOATE acțiunile pe valori REALE din acest moment; înlocuiește valorile în grafic; explică DE CE s-a mișcat piața (studiu încrucișat: piață + mediu economic/politic/public); actualizează procentul (Azi vs Soclu) și cei 12 indicatori; memorează tot; iar când sunt pe Chrome, actualizează aplicația/telefonul.
 
 --- ACȚIUNI (18): ticker · soclu · azi · % · min · vârf · poziție în bandă ---
-PLTR · soclu 151.44 · azi 175.24 · +15.7% · min 24.04 · vârf 190 · bandă 91%
-MSFT · soclu 487.65 · azi 481.37 · -1.3% · min 55.8 · vârf 500 · bandă 96%
-NVDA · soclu 206.64 · azi 217.7 · +5.4% · min 94.18 · vârf 235.47 · bandă 87%
-AVGO · soclu 411.79 · azi 363.35 · -11.8% · min 133.74 · vârf 480.77 · bandă 66%
-GOOGL · soclu 371 · azi 343.065 · -7.5% · min 82.7 · vârf 402.38 · bandă 81%
-AMZN · soclu 277.14 · azi 262.905 · -5.1% · min 81.82 · vârf 284.02 · bandă 90%
-CRWD · soclu 210.01 · azi 198.245 · -5.6% · min 23.28 · vârf 400 · bandă 46%
-PANW · soclu 358.91 · azi 357.765 · -0.3% · min 141.67 · vârf 366.34 · bandă 96%
-ZS · soclu 154.46 · azi 181.945 · +17.8% · min 67.19 · vârf 370 · bandă 38%
-NET · soclu 286.57 · azi 288.1 · +0.5% · min 34.83 · vârf 300 · bandă 96%
-META · soclu 582 · azi 547.67 · -5.9% · min 88.22 · vârf 630 · bandă 85%
-TSM · soclu 406.11 · azi 413.155 · +1.7% · min 23.57 · vârf 420 · bandă 98%
-ORCL · soclu 141.85 · azi 142.685 · +0.6% · min 33.37 · vârf 200 · bandă 66%
-NOW · soclu 114.19 · azi 128.33 · +12.4% · min 15.13 · vârf 125 · bandă 103%
-CRM · soclu 185.14 · azi 205.928 · +11.2% · min 69.34 · vârf 320 · bandă 54%
+PLTR · soclu 151.44 · azi 173.96 · +14.9% · min 24.04 · vârf 190 · bandă 90%
+MSFT · soclu 487.65 · azi 481.15 · -1.3% · min 55.8 · vârf 500 · bandă 96%
+NVDA · soclu 206.64 · azi 216.85 · +4.9% · min 94.18 · vârf 235.47 · bandă 87%
+AVGO · soclu 411.79 · azi 364.03 · -11.6% · min 133.74 · vârf 480.77 · bandă 66%
+GOOGL · soclu 371 · azi 340.67 · -8.2% · min 82.7 · vârf 402.38 · bandă 81%
+AMZN · soclu 277.14 · azi 260.11 · -6.1% · min 81.82 · vârf 284.02 · bandă 88%
+CRWD · soclu 210.01 · azi 190.34 · -9.4% · min 23.28 · vârf 400 · bandă 44%
+PANW · soclu 358.91 · azi 349.56 · -2.6% · min 141.67 · vârf 366.34 · bandă 93%
+ZS · soclu 154.46 · azi 174.95 · +13.3% · min 67.19 · vârf 370 · bandă 36%
+NET · soclu 286.57 · azi 278.91 · -2.7% · min 34.83 · vârf 300 · bandă 92%
+META · soclu 582 · azi 545.83 · -6.2% · min 88.22 · vârf 630 · bandă 84%
+TSM · soclu 406.11 · azi 416 · +2.4% · min 23.57 · vârf 420 · bandă 99%
+ORCL · soclu 141.85 · azi 142.07 · +0.2% · min 33.37 · vârf 200 · bandă 65%
+NOW · soclu 114.19 · azi 129.75 · +13.6% · min 15.13 · vârf 125 · bandă 104%
+CRM · soclu 185.14 · azi 205.43 · +11.0% · min 69.34 · vârf 320 · bandă 54%
 PSTG · soclu 62.85 · azi — · — · min 8.76 · vârf 105 · bandă 56%
-AAPL · soclu 303.42 · azi 317.32 · +4.6% · min 105.5 · vârf 340.08 · bandă 90%
-AXP · soclu 344.72 · azi 334.4 · -3.0% · min 63.4 · vârf 360 · bandă 91%
+AAPL · soclu 303.42 · azi 311.3 · +2.6% · min 105.5 · vârf 340.08 · bandă 88%
+AXP · soclu 344.72 · azi 331.15 · -3.9% · min 63.4 · vârf 360 · bandă 90%
 
 --- INDICATORI MACRO (12): nr · nume · ghidaj · acum ---
 1. Curba randamentelor 10Y–2Y · ghidaj 0 · acum 0.45
